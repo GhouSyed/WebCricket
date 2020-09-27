@@ -1,0 +1,26 @@
+export const teamA = [
+  { name: "A-P1" },
+  { name: "A-P2" },
+  { name: "A-P3" },
+  { name: "A-P4" },
+  { name: "A-P5" },
+  { name: "A-P6" },
+  { name: "A-P7" },
+  { name: "A-P8" },
+  { name: "A-P9" },
+  { name: "A-P10" },
+  { name: "A-P11" },
+];
+export const teamB = [
+  { name: "B-P1" },
+  { name: "B-P2" },
+  { name: "B-P3" },
+  { name: "B-P4" },
+  { name: "B-P5" },
+  { name: "B-P6" },
+  { name: "B-P7" },
+  { name: "B-P8" },
+  { name: "B-P9" },
+  { name: "B-P10" },
+  { name: "B-P11" },
+];

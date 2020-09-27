@@ -1,0 +1,8 @@
+@import "./style.css";
+
+.App {
+  display: grid;
+  grid-template: 1fr / repeat(2, 1fr);
+  gap: 7px;
+  place-items: center;
+}
